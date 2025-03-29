@@ -4,6 +4,10 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+table{
+    margin-top: 20px;
+}
+
 .calendario, th, td{
     border: 1px solid black;
     border-collapse: collapse;
